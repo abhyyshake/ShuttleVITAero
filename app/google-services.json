@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215970106119",
+    "project_id": "shuttle-vit",
+    "storage_bucket": "shuttle-vit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215970106119:android:44c1ee11efbe91bcc6d3a2",
+        "android_client_info": {
+          "package_name": "com.example.shuttlevit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215970106119-qb25s1i9ed8f6qu6eqd2ai6on2bo09u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1DfICtqQbhr4AVR3i8KGiFyQhKNkrkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215970106119-qb25s1i9ed8f6qu6eqd2ai6on2bo09u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
